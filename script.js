@@ -10,7 +10,7 @@ const projects = [
         title: "An unofficial liverpool website",
         description: "My first website.",
         imagePath: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/879px-Liverpool_FC.svg.png", // NOTE: This image file must be in an 'images' folder!
-        link: "https://arcade.makecode.com/#####-my-game-link"
+        link: ""
     },
 
     // ----------------------------------------------------
@@ -83,3 +83,4 @@ projects.forEach(project => {
     projectsContainer.appendChild(card);
 
 });
+
